@@ -206,7 +206,7 @@ def blend_image(data, GRAD_MIX):
     return image_solution
 
 
-DATA_ROOT = "C:/Users/Yassine/Documents/PSC/poisson_blend/exemple/"
+DATA_ROOT = "Path//to//file"
 GRAD_MIX = True
 IMAGE_NAME = "test1.jpg"
 
