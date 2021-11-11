@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 30 13:48:11 2021
-
-@author: Yassine
-"""
 from scipy.spatial import ConvexHull
 import matplotlib.pyplot as plt
 import numpy as np
