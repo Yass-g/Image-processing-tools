@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 16 12:07:28 2021
-
-@author: Yassine
-"""
-
 import numpy as np
 import scipy.sparse as sps
 import scipy.sparse.linalg as linalg
